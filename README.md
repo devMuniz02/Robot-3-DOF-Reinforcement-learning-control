@@ -1,5 +1,7 @@
 # Robot-3-DOF-Reinforcement-learning-control
 
+> **Warning:** Project is being migrated to individual repository. Stay tuned for updates.
+
 RL control of a 3-DOF robot using stable baselines to achieve certain positions.
 
 The goal of this project is to be able to control a UR3e-like robot, as shown in the image below, to achieve specific positions based solely on the final effector position, using reinforcement learning (RL) for control.
@@ -14,7 +16,7 @@ I designed an environment to simulate the dynamics of a 3-DOF robot and implemen
 
 | Before Training | After 10,000,000 Steps |
 |-----------------|------------------------|
-| ![Before Training](path/to/before-training.gif) | ![After Training](path/to/after-training.gif) |
+| ![Before Training]() | ![After Training](path/to/after-training.gif) |
 
 ### Key Features
 - **Custom Simulation Environment**: Simulates the dynamics of a 3-DOF robot.
