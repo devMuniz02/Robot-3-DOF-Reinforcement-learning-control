@@ -14,9 +14,17 @@ I designed an environment to simulate the dynamics of a 3-DOF robot and implemen
 
 ### Training Progress
 
-| Before Training | After 10,000,000 Steps |
-|-----------------|------------------------|
-| ![Before Training]() | ![After Training](path/to/after-training.gif) |
+| Before Training | 
+|-----------------|
+| ![Before Training](https://github.com/user-attachments/assets/92e5f981-94b3-4f45-a8ed-d4abaee6008d) |
+
+| After 100,000 Steps |
+|---------------------|
+| ![After Training 100k](https://github.com/user-attachments/assets/6f4025b6-8d30-4702-b31c-d8a78891e88a) |
+
+| After 500,000 Steps |
+|---------------------|
+| ![After Training 500k](https://github.com/user-attachments/assets/e42b7651-4394-4c50-a5e6-0f62e65f6f22) |
 
 ### Key Features
 - **Custom Simulation Environment**: Simulates the dynamics of a 3-DOF robot.
