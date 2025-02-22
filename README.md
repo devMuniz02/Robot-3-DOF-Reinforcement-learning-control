@@ -4,7 +4,7 @@
 
 RL control of a 3-DOF robot using stable baselines to achieve certain positions.
 
-The goal of this project is to be able to control a UR3e-like robot, as shown in the image below, to achieve specific positions based solely on the final effector position, using reinforcement learning (RL) for control.
+The goal of this project is to be able to control a robot with 3-DOF and then expand to a UR3e-like robot with 6-DOF, as shown in the image below, to achieve specific positions based solely on the final effector position, using reinforcement learning (RL) for control.
 
 <img src="https://github.com/user-attachments/assets/c408a8d5-1253-4abf-97cf-a6fb9339ab68" alt="UR3e-like robot" width="300">
 
@@ -35,6 +35,7 @@ I designed an environment to simulate the dynamics of a 3-DOF robot and implemen
 - The RL agent successfully learns to control the 3-DOF robot, achieving precise end effector positioning after training.
 
 ### Future Work
+- SImulate a 6-DOF robot
 - Extend the environment to include obstacles for collision avoidance.
 - Scale the implementation to control robots with higher degrees of freedom.
 - Compare PPO with other RL algorithms like DDPG or SAC.
